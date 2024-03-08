@@ -1,0 +1,53 @@
+[props/source%3A%3A...splunk_ta_atlassian-cloud%2A.log%2A]
+owner = nilesh
+version = 9.2.0
+modtime = 1708567253.271756000
+
+[props/source%3A%3A...splunk_ta_atlassian_cloud%2A.log%2A]
+owner = nilesh
+version = 9.2.0
+modtime = 1708567254.543686000
+
+[props/Atlassian-Cloud-API]
+owner = nilesh
+version = 9.2.0
+modtime = 1708575846.191181000
+
+[indexes/test_index]
+owner = nilesh
+version = 9.2.0
+modtime = 1708576014.099088000
+
+[collections/Splunk_TA_atlassian_cloud_checkpointer]
+owner = splunk-system-user
+version = 9.2.0
+modtime = 1708576063.891137000
+
+[passwords/credential%3A__REST_CREDENTIAL__%23Splunk_TA_atlassian-cloud%23configs%2Fconf-splunk_ta_atlassian_cloud_settings%3Aadditional_parameters%60%60splunk_cred_sep%60%601%3A]
+owner = nilesh
+version = 9.2.0
+modtime = 1709884774.803582000
+
+[passwords/credential%3A__REST_CREDENTIAL__%23Splunk_TA_atlassian-cloud%23configs%2Fconf-splunk_ta_atlassian_cloud_settings%3Aadditional_parameters%60%60splunk_cred_sep%60%602%3A]
+owner = nilesh
+version = 9.2.0
+modtime = 1709884774.867250000
+
+[splunk_ta_atlassian_cloud_settings/additional_parameters]
+version = 9.2.0
+modtime = 1709884774.885818000
+
+[passwords/credential%3A__REST_CREDENTIAL__%23Splunk_TA_atlassian-cloud%23data%2Finputs%2Fgetting_data_from_the_general_atlassian_cloud_api%3Aatlassian_testing_15%60%60splunk_cred_sep%60%601%3A]
+owner = admin
+version = 9.2.0
+modtime = 1709884813.521869000
+
+[passwords/credential%3A__REST_CREDENTIAL__%23Splunk_TA_atlassian-cloud%23data%2Finputs%2Fgetting_data_from_the_general_atlassian_cloud_api%3Aatlassian_testing_15%60%60splunk_cred_sep%60%602%3A]
+owner = admin
+version = 9.2.0
+modtime = 1709884813.551821000
+
+[inputs/getting_data_from_the_general_atlassian_cloud_api%3A%2F%2Fatlassian_testing_15]
+owner = admin
+version = 9.2.0
+modtime = 1709885015.417738000
